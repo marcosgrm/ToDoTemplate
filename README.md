@@ -6,4 +6,5 @@ Marcos Gabriel Rodrigues, 2019.
 
 ## Rodando o Projeto
 npm install
+
 npm start
